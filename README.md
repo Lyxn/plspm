@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is a python implemention of **Partial Least Squares Path Modeling** for metric data, 
+This is a python implementation of **Partial Least Squares Path Modeling** for metric data, 
 based on [plspm of R version][R-plspm].
 
 [Path analysis][PathAnalysis] is also known as **Structural Equation Modeling(SEM)**. 
